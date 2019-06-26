@@ -1,0 +1,7 @@
+Problem Definition
+
+*A MNC Fabrikam which has multiple branches in different countries.
+*This company wanted to extend their business by building and hosting  information management solutions in web and by hosting internet public website for customers for online shopping and to know about products.
+*To access Feedback Management system and leave management related information company required to build and host intranet for all employees.
+*Fabricom has subscription of amazon cloud webservices and use I-a-a-s.
+*On google cloud platform company wanted to build and host this information system 

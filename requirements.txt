@@ -1,0 +1,13 @@
+Functional requirements
+
+Marketting and Selling.  
+Build information Management solutions.
+Hosting for their company.
+Building and hosting intranet for employees.
+
+Non Functional requirements
+
+#Realiability
+#Maintanence
+#Security
+#scalable
